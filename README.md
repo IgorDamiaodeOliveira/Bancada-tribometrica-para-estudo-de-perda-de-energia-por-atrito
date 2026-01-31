@@ -1,0 +1,1 @@
+# Bancada_tribom-trica_para_estudo_de_perda_de_energia_por_atrito
