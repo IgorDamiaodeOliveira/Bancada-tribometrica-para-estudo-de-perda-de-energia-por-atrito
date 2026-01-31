@@ -1,4 +1,4 @@
-# Bancada_tribom-trica_para_estudo_de_perda_de_energia_por_atrito
+# Bancada-tribometrica-para-estudo-de-perda-de-energia-por-atrito
 # Bancada de Análise Tribométrica Automatizada
 
 ![Badge Status](https://img.shields.io/badge/Status-Funcional-brightgreen)
