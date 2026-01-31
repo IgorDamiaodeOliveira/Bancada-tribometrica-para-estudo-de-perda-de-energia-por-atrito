@@ -94,6 +94,6 @@ $$W_{fat} = \int \vec{F}_{at} \cdot d\vec{s}$$
 
 
 
-## 📝 Licença
+## Licença
 
 Este projeto está licenciado sob a licença MIT.
